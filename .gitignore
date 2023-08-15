@@ -1,0 +1,5 @@
+# never track compiled files
+mysh
+*.o
+*.swp
+a.out
